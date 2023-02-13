@@ -1,0 +1,14 @@
+.text-center {
+    background-color: crimson;
+    color: white;
+    padding: 30px;
+}
+
+.manager-card {
+    display: flex;
+    margin-right: 100px;
+}
+
+.engineer-card {
+    margin-right: 100px;
+}
